@@ -4,7 +4,7 @@ version = "1.8.14"
 
 description = \
     """
-    alembic
+    HDF5 file management system
     """
 
 variants = [
