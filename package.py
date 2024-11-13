@@ -7,9 +7,7 @@ description = \
     HDF5 file management system
     """
 
-variants = [
-    ["platform-linux"]
-]
+variants = [["platform-linux", "arch-x86_64"]]
 
 uuid = "repository.hdf5"
 
