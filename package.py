@@ -1,6 +1,6 @@
 name = "hdf5"
 
-version = "1.8.14"
+version = "1.13.0"
 
 description = \
     """
